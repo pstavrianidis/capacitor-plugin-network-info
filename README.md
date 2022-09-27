@@ -1,0 +1,1 @@
+# capacitor-plugin-network-info
